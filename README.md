@@ -23,7 +23,6 @@ The **Fingerprint-Based Smart Door Lock System** is a secure and efficient acces
 | Biometric Sensor      | R305 / GT-511C3 Fingerprint   |
 | Actuator              | 5V Relay Module + Electric Lock |
 | Programming Language  | C++ (Arduino IDE)             |
-| Communication         | UART / Serial / Wi-Fi         |
 | Optional Dashboard    | Flask (Python) + SQLite       |
 
 ---
