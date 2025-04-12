@@ -93,5 +93,5 @@ Gaurav Kumar Yadav.
 
 For inquiries, collaborations, or feedback:
 01singhsahab19@gmail.com
-![door](https://github.com/user-attachments/assets/125f935a-965e-43de-aa25-54b60f177fd9)
+
 
