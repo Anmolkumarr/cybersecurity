@@ -11,7 +11,7 @@ The **Fingerprint-Based Smart Door Lock System** is a secure and efficient acces
 - **Web Dashboard (optional)** for logs and access control
 - Tamper Detection & Alert System**
 - Microcontroller-based**, low power consumption
-- 🛡Data encryption** and secure fingerprint storage
+- Data encryption** and secure fingerprint storage
 
 ---
 
