@@ -87,5 +87,10 @@ The **Fingerprint-Based Smart Door Lock System** is a secure and efficient acces
 - Tamper alerts for suspicious activities.
 
 ### 7. Contributors
-Anmol Kumar
-Gaurav Kumar Yadav
+Anmol Kumar.
+Gaurav Kumar Yadav.
+
+#### Contact
+
+For inquiries, collaborations, or feedback:
+01singhsahab19@gmail.com
